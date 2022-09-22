@@ -9,7 +9,7 @@ export default function Journey(props){
             <img src={props.imgUrl} className="travel--img"/>
             <div className="travel--details">
                 <p>
-                    <img src="../images/Location-Icon.png" className="location--icon"/>{props.location}
+                    <img src="./images/Location-Icon.png" className="location--icon"/>{props.location}
                     <a href= {props.maplink} target="_blank" className="travel--location--link" >View on Google Maps</a>
                 </p>
                 <h1 className="travel--title">{props.title}</h1>
