@@ -19,7 +19,7 @@ export default [
         id: 2,
         title:"Sydney Opera House",
         location:"AUSTRALIA",
-        maplink:"",
+        maplink:"https://goo.gl/maps/R1SY55zUbYY63oGn8",
         date: {
             startDate:"27 May, 2021",
             endDate:"8 June, 2021"
@@ -33,7 +33,7 @@ export default [
         id: 3,
         title:"Geirangerfjord",
         location:"NORWAY",
-        maplink:"",
+        maplink:"https://goo.gl/maps/tAmyPaPbznwRqQYb7",
         date: {
             startDate:"01 Oct, 2021",
             endDate:"18 Nov, 2021"
